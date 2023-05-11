@@ -1,0 +1,4 @@
+#Thu May 20 15:21:58 CEST 2021
+base.0=/Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

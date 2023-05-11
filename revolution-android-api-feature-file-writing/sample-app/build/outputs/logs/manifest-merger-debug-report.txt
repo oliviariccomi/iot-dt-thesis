@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/058f81b40728777cec07e3af652b4c92/AndroidManifest.xml:17:1-27:12
+MERGED from [:api] /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/309e8e8f346d306a69311d75a3e77f07/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/d036f0b55020105060cb7d087d5e58c5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/ced7012e17c62fad0e6e6ca24c31677f/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:3:11-48
+		INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:api] /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-68
+MERGED from [:api] /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:6:5-73
+MERGED from [:api] /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-74
+MERGED from [:api] /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:7:5-80
+MERGED from [:api] /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-81
+MERGED from [:api] /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:11:22-73
+application
+ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:13:5-27:19
+MERGED from [com.android.support:appcompat-v7:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/058f81b40728777cec07e3af652b4c92/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/058f81b40728777cec07e3af652b4c92/AndroidManifest.xml:25:5-20
+MERGED from [:api] /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:api] /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/309e8e8f346d306a69311d75a3e77f07/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/309e8e8f346d306a69311d75a3e77f07/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/d036f0b55020105060cb7d087d5e58c5/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/d036f0b55020105060cb7d087d5e58c5/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/ced7012e17c62fad0e6e6ca24c31677f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/ced7012e17c62fad0e6e6ca24c31677f/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:17:13-39
+	android:label
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:16:13-45
+	android:icon
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:15:13-47
+	android:allowBackup
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:14:13-39
+	android:theme
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:18:13-60
+activity#info.plux.pluxapi.sampleapp.ScanActivity
+ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:19:9-25:20
+	android:label
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:20:19-51
+	android:name
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:23:27-74
+activity#info.plux.pluxapi.sampleapp.DeviceActivity
+ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:26:9-51
+	android:name
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml:26:19-49
+uses-sdk
+INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml
+INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/058f81b40728777cec07e3af652b4c92/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/058f81b40728777cec07e3af652b4c92/AndroidManifest.xml:21:5-23:78
+MERGED from [:api] /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:api] /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/309e8e8f346d306a69311d75a3e77f07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/309e8e8f346d306a69311d75a3e77f07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/d036f0b55020105060cb7d087d5e58c5/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/d036f0b55020105060cb7d087d5e58c5/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/ced7012e17c62fad0e6e6ca24c31677f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/ced7012e17c62fad0e6e6ca24c31677f/AndroidManifest.xml:21:5-23:54
+INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml
+INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] /Users/olivia1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/058f81b40728777cec07e3af652b4c92/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml
+		ADDED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/src/main/AndroidManifest.xml

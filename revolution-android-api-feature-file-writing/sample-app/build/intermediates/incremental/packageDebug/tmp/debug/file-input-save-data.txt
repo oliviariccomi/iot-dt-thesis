@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Apr 28 12:51:06 CEST 2021
+0.baseType=DIRECTORY
+0.base=/Users/olivia1/AndroidStudioProjects/revolution-android-api-feature-file-writing/sample-app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

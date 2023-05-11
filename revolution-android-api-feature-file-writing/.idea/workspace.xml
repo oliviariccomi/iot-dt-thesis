@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2075967b-bbbf-465d-9de2-98eee1810bf3" name="Default Changelist" comment="Added timestamp on csv writer" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lCtzcJbIqpRS93Y6SIpghqdHaP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="38013f54348a2300" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-27T09:26:53.007Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1607113185167" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api/jar" />
+      <recent name="$PROJECT_DIR$/sample-app/src/main/java/info/plux/pluxapi/sampleapp/utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sample-app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="revolution-android-api-feature-file-writing.sample-app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2075967b-bbbf-465d-9de2-98eee1810bf3" name="Default Changelist" comment="" />
+      <created>1607113164377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607113164377</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added timestamp on csv writer">
+      <created>1624977133281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624977133283</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added timestamp on csv writer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added timestamp on csv writer" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="245" y="178" key="#PSD" timestamp="1624977201069">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="245" y="167" key="#PSD/0.0.1440.900@0.0.1440.900" timestamp="1621931892775" />
+    <state x="245" y="177" key="#PSD/0.23.1440.831@0.23.1440.831" timestamp="1617896655420" />
+    <state x="245" y="178" key="#PSD/0.23.1440.836@0.23.1440.836" timestamp="1624977201069" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619514036714">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1619514036714" />
+    <state x="460" y="293" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1619516163147">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="460" y="293" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1440.900@0.0.1440.900" timestamp="1619516163147" />
+    <state x="533" y="140" key="#com.intellij.ide.util.MemberChooser" timestamp="1620638509093">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="140" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1620638509093" />
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.831@0.23.1440.831" timestamp="1617897409065" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620743463702">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1620743463702" />
+    <state x="401" y="48" key="#sample-app" timestamp="1619015008349">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="401" y="48" key="#sample-app/0.0.1440.900@0.0.1440.900" timestamp="1619015008349" />
+    <state x="100" y="100" width="1240" height="700" key="AVDManager" timestamp="1619520683102">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="AVDManager/0.0.1440.900@0.0.1440.900" timestamp="1619520094784" />
+    <state x="100" y="100" width="1240" height="700" key="AVDManager/0.23.1440.828@0.23.1440.828" timestamp="1619520683102" />
+    <state width="1396" height="310" key="GridCell.Tab.0.bottom" timestamp="1624977392842">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1396" height="310" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1624797397362" />
+    <state width="1396" height="214" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1617226216367" />
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1620224285846" />
+    <state width="1396" height="310" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1624977392842" />
+    <state width="1396" height="310" key="GridCell.Tab.0.center" timestamp="1624977392842">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1396" height="310" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1624797397361" />
+    <state width="1396" height="214" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1617226216367" />
+    <state width="1396" height="245" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1620224285845" />
+    <state width="1396" height="310" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1624977392842" />
+    <state width="1396" height="310" key="GridCell.Tab.0.left" timestamp="1624977392841">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1396" height="310" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1624797397360" />
+    <state width="1396" height="214" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1617226216366" />
+    <state width="1396" height="245" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1620224285844" />
+    <state width="1396" height="310" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1624977392841" />
+    <state width="1396" height="310" key="GridCell.Tab.0.right" timestamp="1624977392842">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1396" height="310" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1624797397362" />
+    <state width="1396" height="214" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1617226216367" />
+    <state width="1396" height="245" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1620224285845" />
+    <state width="1396" height="310" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1624977392842" />
+    <state width="1396" height="245" key="GridCell.Tab.1.bottom" timestamp="1620224285846">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1620198599747" />
+    <state width="1396" height="245" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1620224285846" />
+    <state width="1396" height="245" key="GridCell.Tab.1.center" timestamp="1620224285846">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1620198599747" />
+    <state width="1396" height="245" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1620224285846" />
+    <state width="1396" height="245" key="GridCell.Tab.1.left" timestamp="1620224285846">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1620198599746" />
+    <state width="1396" height="245" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1620224285846" />
+    <state width="1396" height="245" key="GridCell.Tab.1.right" timestamp="1620224285846">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1620198599747" />
+    <state width="1396" height="245" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1620224285846" />
+    <state x="130" y="501" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1619515589069">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="130" y="501" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1619515589069" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.828@0.23.1440.828" timestamp="1619209075636" />
+    <state x="383" y="213" width="1057" height="490" key="find.popup" timestamp="1624977022917">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="383" y="205" width="1057" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1619601962128" />
+    <state x="383" y="213" width="1057" height="490" key="find.popup/0.23.1440.836@0.23.1440.836" timestamp="1624977022917" />
+    <state x="407" y="298" key="psd.add.jar.dependency.panel.dimension" timestamp="1617896073441">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="407" y="298" key="psd.add.jar.dependency.panel.dimension/0.23.1440.831@0.23.1440.831" timestamp="1617896073441" />
+    <state x="296" y="188" key="psd.add.library.dependency.panel.dimension" timestamp="1617895869467">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="296" y="188" key="psd.add.library.dependency.panel.dimension/0.23.1440.831@0.23.1440.831" timestamp="1617895869467" />
+    <state x="488" y="223" key="refactoring.ChangeSignatureDialog" timestamp="1619524456084">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="488" y="223" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1619524456084" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1619088073885">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1619088073885" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/api/src/main/java/info/plux/pluxapi/bitalino/BITalinoFrame.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="sample-app">
+        <watch expression="BITalinoFrame" language="JAVA" custom="info.plux.pluxapi.bitalino.BITalinoFrame" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

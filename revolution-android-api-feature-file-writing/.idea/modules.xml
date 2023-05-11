@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/revolution-android-api-feature-file-writing.iml" filepath="$PROJECT_DIR$/.idea/modules/revolution-android-api-feature-file-writing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/revolution-android-api-feature-file-writing.api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/revolution-android-api-feature-file-writing.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample-app/revolution-android-api-feature-file-writing.sample-app.iml" filepath="$PROJECT_DIR$/.idea/modules/sample-app/revolution-android-api-feature-file-writing.sample-app.iml" />
+    </modules>
+  </component>
+</project>

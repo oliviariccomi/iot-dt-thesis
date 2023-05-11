@@ -1,0 +1,3 @@
+Version2:
+- Current deleted CoAP classes
+- Edit SenML Pack & Record

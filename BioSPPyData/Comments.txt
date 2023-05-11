@@ -1,0 +1,44 @@
+Cose fatte:
+Inizialmente utilizzata libreria biosppy per plottare tutto, poi ho fatto separatamente i
+due plot con gli ecg e i picchi R
+
+TO DO:
+- Contorllare che l'array dei picchhi R corrispondando agli istanti di occorrenza dei picchi.
+Il valore dell'array è dato da: time = 0:1/Fs:length(ecg)-1
+Con time che va da 0 a 1 e e x = Fs(=0,01) / length(ecg) - 1
+
+- Metriche HRV su Python sia per dominio frequenza che dominio del tempo
+
+
+1° riferimento temporale: Da 0 a n-1 valori (non si conosce l'istande del valore)
+
+So che Fs = 100Hz, fra il primo campione e 100 campione sarà passato 1 sec
+- Costruisco una "griglia" dei vari istanti (1° valore a 0 2° a 0,01, 3° a 0,02...)
+costruisco un vettore con riferimento teporale di ogni campione espresso in secondi
+
+1) Vettore (time) avrà n elementi da 0 aumentando 1/Fs
+
+1) Una volta trovato il vettore (time)
+Coppia vettori ecgDario - time avrò il valore dell'ecg in corrispondenza dell'istante di registrazione
+2) Picchi R (ce l'ho) --> gli elementi del vettore corrispondono ai picchi (ho m picchi)
+3) Riesco a risalire all'x-elemento del picco nel vettore time --> time_r = time[picco] è un vettore che ha
+    - trovo l'istante di tempo del picco
+    - lo aggiungo all'array time_r
+numero elementi pari al numero di elementi individuati e per ogni elemento ho
+l'istante di occorrenza del picco.
+Nel vettore time_r mi dice che nella registrazione della persona ho il tempo riferito al picco che trovo (m elementi)
+4) Serie RR --> uso funzione np.diff ti time_r. Ho un vettore di m-1 elementi
+
+Metriche frequency_domain
+Mi servono:
+    LF
+    HF
+    Rapporto fra i due LF/HF ratio
+
+Ho gli indici della locazione dei picchi nell'array dell'ecg
+
+Librerie usate fino ad ora: biosppy, hrv analysis e neurokit
+
+- Aggiustare valori massimi degli assi;
+- Calcolo bpm
+- Correggere metriche con bpm ecc perché non cambiano

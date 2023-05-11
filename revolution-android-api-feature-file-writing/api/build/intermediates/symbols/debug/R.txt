@@ -1,0 +1,2 @@
+int string action_settings 0x7f150001
+int string app_name 0x7f150002

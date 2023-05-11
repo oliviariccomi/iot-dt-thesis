@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c05a6f5e-6e3e-47fa-8706-48a778d87b78" name="Default Changelist" comment="Project final">
+      <change beforePath="$PROJECT_DIR$/../IoT-biosensors-mqtt-coap/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IoT-biosensors-mqtt-coap/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/csvMakers/csvMaker_fiveVal.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/csvMakers/csvMaker_fiveVal_valoriBasali.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/csvReaders/csvReader.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/csvReaders/csvReaderGeneral.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/machine_learning/bitalino_models_training/models_fV_multiplesplit.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/machine_learning/cross_validation.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/machine_learning/ensemble.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/machine_learning/evaluation.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/plots/prova_new.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/plots/results.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1uUdcnbRCbVdjXeh4csRugDNxza" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/csvMakers" />
+      <recent name="$PROJECT_DIR$/machine_learning/bitalino_models_training" />
+      <recent name="$PROJECT_DIR$/data/polar_stress" />
+      <recent name="$PROJECT_DIR$/data/polar_rest" />
+      <recent name="$PROJECT_DIR$/machine_learning/models_mean" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/ml_metrics_datasets" />
+      <recent name="$PROJECT_DIR$/data/bitalino/scartati/eda" />
+      <recent name="$PROJECT_DIR$/data/bitalino/scartati/ecg" />
+      <recent name="$PROJECT_DIR$/data/bitalino/eda/stressed" />
+      <recent name="$PROJECT_DIR$/data/bitalino/eda/normal" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="csvMaker_fiveVal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BioSPPyData" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/csvMakers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csvMakers/csvMaker_fiveVal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models_fV_multiplesplit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BioSPPyData" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine_learning/bitalino_models_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine_learning/bitalino_models_training/models_fV_multiplesplit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models_fV_multiplesplit_basalV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BioSPPyData" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine_learning/bitalino_models_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine_learning/bitalino_models_training/models_fV_multiplesplit_basalV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models_fv_singlesplit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BioSPPyData" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine_learning/bitalino_models_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine_learning/bitalino_models_training/models_fv_singlesplit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prova" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BioSPPyData" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prova.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c05a6f5e-6e3e-47fa-8706-48a778d87b78" name="Default Changelist" comment="" />
+      <created>1624724184049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624724184049</updated>
+      <workItem from="1624724185176" duration="3275000" />
+      <workItem from="1624787397536" duration="44760000" />
+      <workItem from="1629304637013" duration="1572000" />
+      <workItem from="1629557078888" duration="6293000" />
+      <workItem from="1630089167189" duration="1007000" />
+      <workItem from="1630146158483" duration="1198000" />
+      <workItem from="1630596423272" duration="1035000" />
+      <workItem from="1631628921642" duration="30758000" />
+      <workItem from="1632144007602" duration="919000" />
+      <workItem from="1632145663333" duration="23028000" />
+      <workItem from="1632566066601" duration="750000" />
+      <workItem from="1632566918376" duration="700000" />
+      <workItem from="1632567769861" duration="4012000" />
+      <workItem from="1632573532716" duration="82000" />
+      <workItem from="1632573633631" duration="70640000" />
+      <workItem from="1633798418639" duration="27142000" />
+      <workItem from="1635527380762" duration="5949000" />
+      <workItem from="1635782220471" duration="35931000" />
+      <workItem from="1638700992116" duration="24571000" />
+      <workItem from="1641399990197" duration="11027000" />
+      <workItem from="1642084420464" duration="25135000" />
+      <workItem from="1642684977244" duration="109000" />
+      <workItem from="1642685089275" duration="25390000" />
+      <workItem from="1646221263238" duration="293000" />
+      <workItem from="1647529832302" duration="4201000" />
+      <workItem from="1647584224607" duration="1576000" />
+      <workItem from="1648209426498" duration="134000" />
+      <workItem from="1648483667106" duration="234000" />
+      <workItem from="1661421600217" duration="1136000" />
+      <workItem from="1662715305678" duration="1582000" />
+      <workItem from="1664009038485" duration="570000" />
+      <workItem from="1664204787711" duration="782000" />
+      <workItem from="1665472368949" duration="1267000" />
+      <workItem from="1665751015188" duration="566000" />
+      <workItem from="1666080194204" duration="3000" />
+      <workItem from="1669972762713" duration="338000" />
+      <workItem from="1670843985007" duration="328000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updated R peaks plot over HR plot">
+      <created>1624787437021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624787437021</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- Plot of two different ECG signals with R-peaks&#10;- Got HR Variability metrics">
+      <created>1624976575961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624976575961</updated>
+    </task>
+    <task id="LOCAL-00003" summary="- Plot of two different ECG signals with R-peaks&#10;- Got HR Variability metrics">
+      <created>1624983512832</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624983512832</updated>
+    </task>
+    <task id="LOCAL-00004" summary="- Plot of two different ECG signals with R-peaks&#10;- Got HR Variability metrics">
+      <created>1625212621645</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625212621645</updated>
+    </task>
+    <task id="LOCAL-00005" summary="- Fixed y_axis range values;&#10;- Fixed series rr;&#10;- Frequency domain metrics calculated;&#10;- Plot of frequency metrics;">
+      <created>1625308471210</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625308471210</updated>
+    </task>
+    <task id="LOCAL-00006" summary="- t student test&#10;- Decision tree algorithm&#10;- imported csv files">
+      <created>1632585864215</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1632585864216</updated>
+    </task>
+    <task id="LOCAL-00007" summary="- t student test&#10;- Decision tree algorithm&#10;- imported csv files">
+      <created>1632585886502</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1632585886502</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated project">
+      <created>1636975775162</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636975775162</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New acccuracies values">
+      <created>1639751686153</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1639751686153</updated>
+    </task>
+    <task id="LOCAL-00010" summary="New acccuracies values">
+      <created>1640082953734</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1640082953735</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated project">
+      <created>1641910182092</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1641910182092</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updated project">
+      <created>1641910193103</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1641910193103</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updated project - accuracy top">
+      <created>1642005693879</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1642005693879</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Project final">
+      <created>1643365057941</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1643365057942</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Project final">
+      <created>1643365065985</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1643365065985</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated R peaks plot over HR plot" />
+    <MESSAGE value="- Plot of two different ECG signals with R-peaks&#10;- Got HR Variability metrics" />
+    <MESSAGE value="- Fixed y_axis range values;&#10;- Fixed series rr;&#10;- Frequency domain metrics calculated;&#10;- Plot of frequency metrics;" />
+    <MESSAGE value="- t student test&#10;- Decision tree algorithm&#10;- imported csv files" />
+    <MESSAGE value="New acccuracies values" />
+    <MESSAGE value="Updated project" />
+    <MESSAGE value="Updated project - accuracy top" />
+    <MESSAGE value="Project final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project final" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csvReaders/csvReaderEda.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/models_mean/random_forest.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/models_mean/logistic_regression.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/models_mean/dt.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/prova.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/bitalino/eda/useless/scriptEDA.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/statistics/t_student.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/polar_models_training/models_polar_ecg_normalpred.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csvMakers/csvMaker_mean.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csvMakers/csvMaker_fiveVal.py</url>
+          <line>163</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/prova.py</url>
+          <line>329</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/bitalino_models_training/models_fV_multiplesplit.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/bitalino_models_training/models_fV_multiplesplit.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/csvMakers/csvMaker_fiveVal.py</url>
+          <line>161</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/bitalino_models_training/models_fv_singlesplit.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/bitalino_models_training/models_fV_multiplesplit_basalV.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/bitalino_models_training/models_fV_multiplesplit_basalV.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ec4393b-e344-4422-a31d-2bd211c5a047" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/.idea/BioSPPyData.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/.idea/BioSPPyData.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/Archivio.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/dtPickle.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/dtPickle.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/knnPickle.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/knnPickle.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/logPickle.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/logPickle.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/models_fV_multiplesplit_basalV.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/models_fV_multiplesplit_basalV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/nbPickle.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/nbPickle.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/svcPickle.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/svcPickle.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/Activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate.csh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IoT-biosensors-mqtt-coap/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../IoT-biosensors-mqtt-coap/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IoT-biosensors-mqtt-coap/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IoT-biosensors-mqtt-coap/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IoT-biosensors-mqtt-coap/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IoT-biosensors-mqtt-coap/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ci5bbVumGOS5LrqPrgm2ZmsT8p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ec4393b-e344-4422-a31d-2bd211c5a047" name="Changes" comment="" />
+      <created>1659272636902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659272636902</updated>
+      <workItem from="1683707369185" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

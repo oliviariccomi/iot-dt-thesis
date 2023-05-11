@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3c7546d-e7b6-4b44-a997-ef875934adf9" name="Default Changelist" comment="TO DO:&#10;- Update csvReader for my eda xlsx files;&#10;- Updated the write of time values">
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/.idea/BioSPPyData.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/.idea/BioSPPyData.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/Archivio.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/dtPickle.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/dtPickle.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/knnPickle.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/knnPickle.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/logPickle.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/logPickle.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/models_fV_multiplesplit_basalV.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/models_fV_multiplesplit_basalV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/nbPickle.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/nbPickle.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/svcPickle.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/machine_learning/bitalino_models_training/svcPickle.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/Activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate.csh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IoT-biosensors-mqtt-coap/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../IoT-biosensors-mqtt-coap/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IoT-biosensors-mqtt-coap/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IoT-biosensors-mqtt-coap/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IoT-biosensors-mqtt-coap/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IoT-biosensors-mqtt-coap/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1uctV1v67Jy8e0uS8SCyex5mEij" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GSRExperimentEDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="csvReader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GSRExperimentEDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csvReader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GSRExperimentEDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3c7546d-e7b6-4b44-a997-ef875934adf9" name="Default Changelist" comment="" />
+      <created>1624976725125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624976725125</updated>
+      <workItem from="1624976726313" duration="3266000" />
+      <workItem from="1683707087324" duration="293000" />
+    </task>
+    <task id="LOCAL-00001" summary="TO DO:&#10;- Update csvReader for my eda xlsx files;&#10;- Updated the write of time values">
+      <created>1624980412712</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624980412712</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TO DO:&#10;- Update csvReader for my eda xlsx files;&#10;- Updated the write of time values" />
+    <option name="LAST_COMMIT_MESSAGE" value="TO DO:&#10;- Update csvReader for my eda xlsx files;&#10;- Updated the write of time values" />
+  </component>
+</project>

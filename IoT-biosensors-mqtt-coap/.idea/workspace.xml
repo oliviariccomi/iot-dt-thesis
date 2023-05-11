@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="375b6123-1aed-4cb8-a137-744239b4eec0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/.idea/BioSPPyData.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/.idea/BioSPPyData.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/Archivio.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/Activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate.csh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/activate.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BioSPPyData/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../BioSPPyData/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ci5arrLLJ0trr8gB6KWcxcPTcA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="projmaven" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="375b6123-1aed-4cb8-a137-744239b4eec0" name="Changes" comment="" />
+      <created>1659272631690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659272631690</updated>
+      <workItem from="1671457286005" duration="59000" />
+      <workItem from="1671457363973" duration="82000" />
+      <workItem from="1671457501702" duration="230000" />
+      <workItem from="1674065607327" duration="921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
