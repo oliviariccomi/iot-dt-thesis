@@ -1,0 +1,43 @@
+Things to do:
+- Il DT farà partire direttamente gli script Python per quanto riguarda le metrice
+- Una volta implemmentato il multiple topics su ECG, un ramo andrà verso il buffer (roba della cache, non è una pipeline
+che lavora dati real time) che controllerà se vi sono perdite mentre l'altro farà lavorazione sui dati
+- Per quanto riguarda il controllo della cache
+
+DT appunti
+Parte di cache interna dove lo sviluppatore la può sviluppare (nel mio caso è una lista di campioni).
+Ho un metodo get data pe run processing step con una chiave (con nome = valuelist).
+Se mi faccio dare la cache ed è null bisogna inizializzala vuota;
+Poi la inizializzo a null
+
+If value size == 10
+	faccio qualcosa
+
+Nel mio caso non è == 10 ma sulla differenza del timestamp su x minuti dal primo campione, allora faccio andare lo script
+
+Poi valuelist.clear() : svuoto la cache
+
+Listenonstepdone manda al
+
+1. Metodo validateCache (funzione pipeline?): voglio vedere dati aggiunti in cache e vedere se la pipeline aggiunge quando serve ed esegue
+    1. Controllo se ci sono dei packet loss
+    2. Aggiustare con l’average value
+2. Metodo writedataCsv (fa quello che sta facendo Android perché simulo che )
+3. Funzione di validazione: scorre la lista, se trovo dei valori che saltano, li aggiusto
+
+# Vado a controllare che il numero di sequenza sia continuativo e nel caso faccio media fra valore prima e dopo
+# LA METTO DEL DT
+# Pipine_
+# - prendo ecge mando senml
+# - nell'altro salva in buffer
+
+- Controllare come funziona il controllo pacchetti su Android perché io non so il tempo esatto della registrazione
+- Aggiustare funzione isValid per ora con numeri di sequenza
+- Poi aggiusta il write Csv
+
+
+TEST:
+- sorting
+- verifica se mancano
+- recovery
+Su un buffer che estrapolo, non su tutto l'esperiemnto
